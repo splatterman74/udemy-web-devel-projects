@@ -14,7 +14,7 @@ body{
 
 #logodiv{
     float: left;
-    padding-top: 4px;
+    padding-top: 6px;
     border-right: 1px solid lightgrey;
     padding-right: 10px;
 }
@@ -26,6 +26,7 @@ body{
     width: 200px;
     height: 40px;
     border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
     float: left;
 }
 
@@ -51,6 +52,7 @@ body{
     height: 30px;
     padding: 10px 20px 0 20px;
     border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
     float: left;
 }
 
@@ -113,3 +115,26 @@ a:link{
     height: 30px;
     padding: 20px 40px 0 40px;
     float: left;
+}
+
+#content{
+    font-size: 1.5em;
+}
+
+#welcome{
+    float: left;
+}
+
+#date{
+    float: right;
+    padding-right: 20px;
+}
+
+#headline{
+    float: left;
+}
+
+.story{
+    padding-top: 1px;
+    padding-left: 6px;
+}
