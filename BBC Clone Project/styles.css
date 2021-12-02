@@ -138,3 +138,19 @@ a:link{
     padding-top: 1px;
     padding-left: 6px;
 }
+
+#watchlisten{
+    background-color: #EEEEEE;
+    float: right;
+    width: 350px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    right: 10px;
+}
+
+#watchlisten h2{
+    color: #505050;
+    font-size: 1.4em;
+    margin: 10px 0 10px 10px;
+}
